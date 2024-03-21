@@ -1,3 +1,15 @@
+# ignore powerpoint, word, excel, csv, html, pdf, ply, pts, ckpt, png
+*.pptx
+*.docx
+*.xlsx
+*.csv
+*.html
+*.pdf
+*.ply
+*.pts
+*.ckpt
+*.png
+
 # History files
 .Rhistory
 .Rapp.history
